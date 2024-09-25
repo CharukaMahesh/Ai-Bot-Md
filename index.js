@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Song Bot connected to whatsapp ✅')
 
-let up = `Song BOT connected successful`;
+let up = `❄️AI-BOT connected successful❄️`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://raw.githubusercontent.com/CharukaMahesh/song-bot-md/refs/heads/main/IMGES/20240923_144904.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://raw.githubusercontent.com/CharukaMahesh/Ai-Bot-Md/refs/heads/main/IMGES/20240925_203021.jpg` }, caption: up })
 
 }
 })
